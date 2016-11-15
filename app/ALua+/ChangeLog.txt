@@ -1,3 +1,19 @@
+  1.6.5
+  1，关联打开alp文件。
+  2，增加简单test模块。
+  3，bug修复。
+  1.6.4
+  1，细节优化。
+  2，bug修复。
+  1.6.3
+  1，优化布局表设置onClick逻辑。
+  2，修复bug。
+  1.6.2
+  1，增加RippleLayout。
+  2，增加LuaExpandableListAdapter适配器。
+  3，优化ToolBar显示效果。
+  4，修复垃圾回收bug。
+  5，修复jar资源加载异常的bug。
   1.6.1
   1，优化LuaAdapter适配器。
   2，增加LuaWebView下载完成事件。
