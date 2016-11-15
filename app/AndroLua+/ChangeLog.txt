@@ -1,3 +1,17 @@
+    3.2.3
+    关联alp文件。
+    增加简单test功能。
+    修复bug。
+    3.2.2
+    优化FloatWindow焦点切换。
+    修复bug。
+    3.2.1
+    增加RippleLayout。
+    增加LuaExpandableListAdapter适配器。
+    优化ToolBar显示效果。
+    修复垃圾回收bug。
+    修复jar资源加载异常的bug。   
+    
     3.2
     更新Lua5.3.3。
     增加onVersionChanged回调函数。
